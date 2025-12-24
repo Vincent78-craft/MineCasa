@@ -1,0 +1,8 @@
+name: MineCasa
+version: '${project.version}'
+main: fr.minecasa.MineCasa
+api-version: '1.20'
+description: Mini-jeu inspiré de La Casa de Papel
+author: Vincent
+
+commands: {}
